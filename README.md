@@ -35,7 +35,7 @@ QQ群：2003638
 <p align="center"> 
     <img src="https://cdn.mate.vip/matecloud-framework.jpg" />
 </p>
-
+git 
 ### 功能特点
 - 主体框架：采用最新的Spring Cloud Hoxton SR9, Spring Boot 2.3.9.RELEASE, Spring Cloud Alibaba 2.2.5.RELEASE版本进行系统设计；
 
